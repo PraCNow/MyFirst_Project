@@ -1,0 +1,6 @@
+1 banana
+food
+choclate
+bowl 
+ice cream 
+eat
