@@ -4,3 +4,5 @@ choclate
 bowl 
 ice cream 
 eat
+pizza
+macroon
